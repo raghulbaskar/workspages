@@ -2317,7 +2317,7 @@ span.back-text{
 }
 
 #development h4, #development p {
-  color: #fff
+  color: #F2F0F0;
 }
 
 .next-project {
@@ -2360,7 +2360,7 @@ span.back-text{
 .next-project a {
   display: block;
   position: relative;
-  color: #fff
+  color: #F2F0F0;
 }
 
 .next-project a:hover .next-ico {
@@ -5183,7 +5183,7 @@ video {
 }
 
 .allpro {
-  color: #fff
+  color: #000;
 }
 
 .allpro .live-link a {
@@ -5240,7 +5240,7 @@ video {
 }
 
 .allpro h1 {
-  color: #fff
+  color: #000000
 }
 
 .allpro .paragraph-title {
@@ -5270,7 +5270,7 @@ video {
 }
 
 .allpro h1, .allpro h2, .allpro h3, .allpro h4 {
-  color: #fff
+  color: 	#000000
 }
 
 .allpro h1 span, .allpro h2 span, .allpro h3 span, .allpro h4 span {
@@ -5989,7 +5989,7 @@ video {
 }
 
 .hennessey #development h4, .hennessey #development p {
-  color: #fff
+  color: #000;
 }
 
 @media only screen and (max-width:768px) {
@@ -10112,7 +10112,7 @@ body {
   color:#fff;
   position: relative;
   overflow-x: hidden;
-  background-color: #231F20;
+  background-color: #fff;
 }
 
 #main {
